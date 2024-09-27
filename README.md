@@ -1,1 +1,3 @@
 # Embedded-systems
+## Automated Hovercraft:
+This academic team project had a significant personal impact on me, as it was my first experience with a full product life cycle. From the initial design to using a decision matrix (AHP) to determine the best components, and through the assembly and extensive prototype testing to simulate competitions, the project was fast-paced but incredibly educational. I gained valuable knowledge about microcontrollers, interrupts, sensors, ADCs, and other electronic components. It was a particularly special course, offering a glimpse into the vast potential of engineering and the power of low-level programming.
